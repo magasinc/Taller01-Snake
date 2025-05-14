@@ -1,4 +1,9 @@
 # Taller1_G02
+GALLEGOS LIDER
+GAVIÑO   INTEGRANTE 3
+AVELINO    INTEGRANTE 1
+BURGOS    INTEGRANTE 2
+
 Diseño_Software
 ![Comitlider](https://github.com/user-attachments/assets/37ec8a63-a8dc-4eb4-a9bc-9800b96fc59e "imagen comit lider")
 ![Conflictos](https://github.com/user-attachments/assets/afdb0a87-d53f-4cd3-a4c6-ba2f0b8ea3d9 "conflictos")
