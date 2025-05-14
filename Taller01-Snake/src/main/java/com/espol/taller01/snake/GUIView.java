@@ -16,7 +16,7 @@ import javax.swing.JPanel;
  * a GameFactory.
  */
 public class GUIView extends JPanel {
-	/** The "Start Game" button */
+	/** The "Let’s Go!!!" button */
 	private final JButton startGameButton;
 
 	/** The chooser (also called drop-down menu) with names of different games */
